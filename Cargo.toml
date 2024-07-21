@@ -1,5 +1,5 @@
 [package]
-name = "rusty_disco"
+name = "disco_runtime"
 version = "0.1.0"
 edition = "2021"
 
@@ -8,5 +8,3 @@ panic = "abort"
 
 [profile.release]
 panic = "abort"
-
-[dependencies]
